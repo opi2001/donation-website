@@ -23,7 +23,7 @@ header {
     color: #FFF;
     text-align: center;
 
-    font-family: Inter;
+    
     font-size: 65px;
 
     font-weight: 700;
@@ -34,7 +34,7 @@ header {
     margin-top: 20px;
     color: #FFF;
     text-align: center;
-    font-family: Poppins;
+    
     font-size: 18px;
     font-weight: 400;
     margin-bottom: 46px;
@@ -147,7 +147,7 @@ section .input {
     text-align: center;
     color: #707070;
     font-size: 18px;
-    font-style: normal;
+    
     font-weight: 400;
     margin-bottom: 50px;
 
@@ -171,7 +171,7 @@ section .input {
     color: #121212;
 
     font-size: 24px;
-    font-style: normal;
+    
     font-weight: 600;
     padding: 23px;
 
@@ -214,7 +214,7 @@ section .input {
 .con-header {
     color: #121212;
     font-size: 45px;
-    font-style: normal;
+    
     font-weight: 700;
     width: 492px;
 
